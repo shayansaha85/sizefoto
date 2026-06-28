@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/sizefoto-logo.png" alt="SizeFoto Logo" width="250" />
+  <img src="docs/sizefoto-logo.png" alt="SizeFoto Logo" width="100" />
   <h1>SizeFoto</h1>
   <p><strong>A simple and fast web app to resize and compress your images to a specific file size in KB.</strong></p>
 
