@@ -22,7 +22,7 @@
 **SizeFoto** is a lightweight, browser-based tool that allows you to easily resize or compress your images. If you've ever needed an image to be strictly between, say, 50KB and 100KB for an online application or document submission, SizeFoto handles the scaling and compression logic automatically within your browser. 
 
 <div align="center">
-  <img src="docs/sizefoto-snap.png" alt="SizeFoto Screenshot" style="border-radius: 8px; max-width: 100%;" />
+  <img src="docs/snapshot.png" alt="SizeFoto Screenshot" style="border-radius: 8px; max-width: 100%;" />
 </div>
 
 ## ✨ Features
