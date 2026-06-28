@@ -1,1 +1,85 @@
-![](data:image/;base64,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)
+<div align="center">
+  <img src="docs/sizefoto-logo.png" alt="SizeFoto Logo" width="250" />
+  <h1>SizeFoto</h1>
+  <p><strong>A simple and fast web app to resize and compress your images to a specific file size in KB.</strong></p>
+
+  <p>
+    <a href="https://sizefoto.vercel.app/" target="_blank"><b>View Live Demo</b></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-18.3-blue?style=flat-square&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-5.5-blue?style=flat-square&logo=typescript" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Vite-5.4-646CFF?style=flat-square&logo=vite" alt="Vite" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
+  </p>
+</div>
+
+---
+
+## 🌟 Overview
+
+**SizeFoto** is a lightweight, browser-based tool that allows you to easily resize or compress your images. If you've ever needed an image to be strictly between, say, 50KB and 100KB for an online application or document submission, SizeFoto handles the scaling and compression logic automatically within your browser. 
+
+<div align="center">
+  <img src="docs/sizefoto-snap.png" alt="SizeFoto Screenshot" style="border-radius: 8px; max-width: 100%;" />
+</div>
+
+## ✨ Features
+
+- 🎯 **Precise File Sizing**: Specify minimum and maximum file size bounds (in KB). The app iteratively adjusts dimensions and quality to fit your criteria perfectly.
+- 🔒 **Client-Side Processing**: All image processing happens locally in your browser using the HTML5 Canvas API. **Your images never leave your device, ensuring complete privacy.**
+- 👁️ **Live Preview**: Instantly see the original and processed image alongside their respective file sizes.
+- ⬇️ **Easy Download**: One-click download for your processed image.
+- 📱 **Responsive Design**: Beautiful, user-friendly, and mobile-ready interface built with Tailwind CSS.
+
+## 🚀 Tech Stack
+
+- **Framework**: React 18
+- **Build Tool**: Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+
+## 🔗 Live Application
+
+Try the app now: **[https://sizefoto.vercel.app/](https://sizefoto.vercel.app/)**
+
+## 💻 Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js (v18 or higher recommended)
+- npm, yarn, or pnpm
+
+### Installation
+
+1. **Clone the repository** (or download the source):
+   ```bash
+   git clone <your-repo-url>
+   cd sizefoto
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to the local URL provided in the terminal (usually `http://localhost:5173`).
+
+## 🛠️ How It Works
+
+Under the hood, SizeFoto leverages the HTML5 `<canvas>` element to read your uploaded image and apply a binary search approach on image quality. 
+If lowering the quality isn't enough to meet the size requirements, the app intelligently downscales the image dimensions iteratively until the target constraints are met. 
+Conversely, if an image is smaller than the minimum size limit, it can scale the image up smoothly.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
